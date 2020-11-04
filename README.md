@@ -7,8 +7,10 @@ Transmute builds on open standards, and relies on them for interoperability.
 - [Decentralized Identifiers Spec](https://w3c.github.io/did-core/)
 - [DID Spec Registries](https://w3c.github.io/did-spec-registries/)
 - [Sidetree Spec](https://identity.foundation/sidetree/spec/)
-- [DID Key](https://github.com/w3c-ccg/did-method-key)
-- [DID Elem](https://github.com/decentralized-identity/element)
+- [DID Key](https://did.key.transmute.industries)
+- [DID Element](https://staging.element.transmute.industries)
+- [DID Web](https://did.actor)
+- [Sidetree TypeScript](https://github.com/transmute-industries/sidetree.js)
 
 ## Credentials
 
@@ -24,6 +26,7 @@ Transmute builds on open standards, and relies on them for interoperability.
 ## Services 
 - [Wallet Interop Spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
 - [Encrypted Data Vault Spec](https://identity.foundation/secure-data-store/)
+- [Encrypted Data Vault Demo](https://staging.data-vault.transmute.industries/)
 
 ## Misc
 
