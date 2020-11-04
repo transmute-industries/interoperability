@@ -13,8 +13,7 @@ Transmute builds on open standards, and relies on them for interoperability.
 ## Credentials
 
 - [Verifiable Credentials Spec](https://w3c.github.io/vc-data-model/)
-- [VC HTTP Issuer API Spec](https://github.com/w3c-ccg/vc-issuer-http-api)
-- [VC HTTP Verifier API Spec](https://github.com/w3c-ccg/vc-verifier-http-api)
+- [VC HTTP API](https://github.com/w3c-ccg/vc-http-api)
 
 ## Linked Data Signature Suites
 
