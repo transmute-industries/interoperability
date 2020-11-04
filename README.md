@@ -22,7 +22,7 @@ Transmute builds on open standards, and relies on them for interoperability.
 - [Ed25519 Signature 2018](https://w3c-ccg.github.io/lds-ed25519-2018/)
 
 ## Services 
-
+- [Wallet Interop Spec](https://github.com/w3c-ccg/universal-wallet-interop-spec)
 - [Encrypted Data Vault Spec](https://identity.foundation/secure-data-store/)
 
 ## Misc
